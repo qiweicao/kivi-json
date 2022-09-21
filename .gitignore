@@ -40,7 +40,6 @@
 **/CMakeScripts
 **/compile_commands.json
 
-include/divisible/*
 
 
 ## Local
@@ -53,3 +52,5 @@ include/*
 lib/*
 bin/*
 test/test_runner
+
+!.git-keep

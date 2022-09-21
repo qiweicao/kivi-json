@@ -17,4 +17,4 @@ include_directories(${JSON_INSTALL_INCLUDE_DIR})
 include_directories(${JSON_HEADERS_DIR})
 
 add_subdirectory(src)
-# add_subdirectory(test)
+add_subdirectory(test)
